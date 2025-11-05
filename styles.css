@@ -57,7 +57,7 @@ header {
 }
 
 .inicio-header{
-background: url("imagen-header-nexora-tech.png")
+background: url("imgs/imagen-header-nexora-tech.png")
     no-repeat center center/cover; /* No repeat evita efecto mosaico,cover hace que ocupe el 100% del div */
   height: 80vh;
   display: flex;
